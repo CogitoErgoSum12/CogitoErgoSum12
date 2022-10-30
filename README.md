@@ -1,10 +1,13 @@
 <div align="center">
 <img src="https://i.imgur.com/lrGcX64.gif " align="center" style="width: 100%" />
 </div>  
-  
+
 
 ### <div align="center">I'm Baktiyar, a Сybersecurity student 👨‍💻</div>  
   
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/IgorMyshkin.png" alt="TryHackMe">
+</div>   
 
 - 💼 Currently a 2nd year student at the university.  
   
@@ -41,3 +44,4 @@
 </div>  
 
 <br/>  
+
