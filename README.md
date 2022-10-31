@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://i.imgur.com/lrGcX64.gif " align="center" style="width: 100%" />
-</div>  
+
 
 
 ### <div align="center">I'm Baktiyar, a Сybersecurity student 👨‍💻</div>  
