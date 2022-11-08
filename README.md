@@ -16,7 +16,7 @@
   * Backend
   * Frontend
   * System administration
-  * Database management
+
    
   
 
