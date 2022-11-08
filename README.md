@@ -3,9 +3,6 @@
 
 ### <div align="center">I'm Baktiyar, a Сybersecurity student 👨‍💻</div>  
   
-<div align="center">
-  <a href="https://tryhackme.com/p/IgorMyshkin"><img src="https://tryhackme-badges.s3.amazonaws.com/IgorMyshkin.png" alt="TryHackMe"></a>
-</div>   
 
 - 💼 Currently a 2nd year student at the university.  
   
